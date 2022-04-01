@@ -11,9 +11,10 @@
 	<script>
 		function szamol()
 		{
-			let anyag=document.getElementById("oldottAnyag").value;
-			let anyag=document.getElementById("oldoSzer").value;
-			document.getElementById("megoldas").innerHTML=(anyag/ (anyag+szer) )*100;
+			let anyag=document.getElementById("oldottAnyag").value*1;
+			let anyag=document.getElementById("oldoSzer").value*1;
+			let eredmeny=(anyag/ (anyag+szer) )*100;
+			document.getElementById("megoldas").innerHTML=eredmeny;
 		}
 	</script>
 		<div id="tartalom">
