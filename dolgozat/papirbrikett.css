@@ -2,10 +2,11 @@ body{
   padding: 15px;
   color: blue;
   line-height: 110%;
+  background-image: url(hatterkep.png);
 }
 
 h1{
-
+  text-align: center;
   margin: 10px 0px 40px;
 }
 
@@ -20,6 +21,8 @@ h1, h2{
   background-color: #EBEBEB;
   padding: 10px 35px;
   font-size: 75%;
+  border-top: 1px solid (#1F3F5F;
+  border-bottom: ; 
 }
 
 #brikettek{
