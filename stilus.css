@@ -13,7 +13,8 @@ body
 {
    border: 1px solid white;
 }
-.item1
+#container .item1
 {
     background-color: yellow;
+    grid-column: 1/7;
 }
