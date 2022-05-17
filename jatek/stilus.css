@@ -34,14 +34,25 @@ footer{
     {
         grid-template-columns: 25% 75%;
     }
-    header{ grid-column: 1/3;}
+    header{ grid-column: 1 / 3;}
     nav { grid-column: 1;}
     .jobbsav {grid-column: 1; }
-    .tartalom {grid-column: 2; grid-row: 2/4;}
-    footer{ grid-column: 1/3;}
+    .tartalom {grid-column: 2; grid-row: 2 / 4;}
+    footer{ grid-column: 1 / 3;}
 }  
 /* monitor */
 @media only screen and (min-width:1200px)
 {
+    #grid-container
+    {
+        width: 1200px;
+        grid-template-columns: 25% 55% 20%;
+        margin: auto;
+    }
     footer{background-color: tomato;}
-}  
+    header{ grid-column: 1 / 4;}
+    nav { grid-column: 1;}
+    .jobbsav {grid-column: 3;}
+    .tartalom {grid-column: 2; grid-row: 2 / 4;}
+    footer{ grid-column: 1 / 4;}
+}
