@@ -1,6 +1,13 @@
+*
+{
+    font-family: 'Times New Roman', Times, serif;
+}
 header 
 {
     background-color: antiquewhite;
+    height: 100px;
+    padding: 20px;
+    text-align: right;
 }
 nav 
 {
@@ -14,6 +21,7 @@ nav
 {
     background-color: black;
 }
+
 footer{
     background-color: blue;
 }
