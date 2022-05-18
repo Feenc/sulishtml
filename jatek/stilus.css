@@ -8,6 +8,9 @@ header
     height: 100px;
     padding: 20px;
     text-align: right;
+    background-image:url("asdasd.jpg");
+    background-position-y: 250px;
+    color: white;
 }
 nav 
 {
@@ -24,6 +27,22 @@ nav
 
 footer{
     background-color: blue;
+}
+.infobox
+{
+    background-color: dodgerblue;
+    margin: 10px;
+    padding: 10px;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+}
+.infobox h3
+{
+    margin: 0;
+    text-align: center;
+    background-color: white;
+    color: black;
+
 }
 #grid-container
 {
@@ -42,11 +61,11 @@ footer{
     {
         grid-template-columns: 25% 75%;
     }
-    header{ grid-column: 1 / 3;}
+    header{ grid-column: 1/3;}
     nav { grid-column: 1;}
     .jobbsav {grid-column: 1; }
-    .tartalom {grid-column: 2; grid-row: 2 / 4;}
-    footer{ grid-column: 1 / 3;}
+    .tartalom {grid-column: 2; grid-row: 2/4;}
+    footer{ grid-column: 1/3;}
 }  
 /* monitor */
 @media only screen and (min-width:1200px)
@@ -58,9 +77,9 @@ footer{
         margin: auto;
     }
     footer{background-color: tomato;}
-    header{ grid-column: 1 / 4;}
+    header{ grid-column: 1/4;}
     nav { grid-column: 1;}
     .jobbsav {grid-column: 3;}
-    .tartalom {grid-column: 2; grid-row: 2 / 4;}
-    footer{ grid-column: 1 / 4;}
+    .tartalom {grid-column: 2; grid-row: 2/4;}
+    footer{ grid-column: 1/4;}
 }
