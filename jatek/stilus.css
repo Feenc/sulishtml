@@ -12,19 +12,19 @@ header
     height: 100px;
     padding:20px;
     text-align: right;
-    background-image: url("asdasd.jpg");
+    background-image: url("images/asdasd.jpg");
     background-position: center;
     color: white;    
 }
 nav
 {
-    color: gold;
+    color: white;
     padding-left: 50px;
 
 }
 nav a 
 {
-    color: green;
+    color: white;
     text-decoration: none;
 }
 nav li
@@ -52,33 +52,33 @@ footer
     margin:10px ;
     padding: 10px;
     border: 2px solid black;
-    background-color: green;
+    background-color: white;
     border-radius: 20px;
 }
 .infobox h3
 {
     margin: 0px;
     text-align: center;
-    background-color: blanchedalmond;
+    background-color: gray;
     border-bottom: 1px solid black;
 } 
 
 header
 {
-    background-color: antiquewhite;
+    background-color: gray;
 }
 nav
 {
-    background-color: aqua;
+    background-color: black;
 }
 .jobbsav
 {
-    background-color: blue;
+    background-color: black;
 }
 .tartalom
 {
     padding: 15px;
-    background-color: blueviolet;
+    background-color: gray;
 }
 .tartalom h2
 {
@@ -86,9 +86,14 @@ nav
     text-align: center;
     font-variant: small-caps;
 }
+.tartalom picture *{
+    max-width: 100%;
+    float: left;
+    margin-right: 10px;
+}
 footer
 {
-    background-color: coral;
+    background-color: gray;
 }
 
 
@@ -104,7 +109,7 @@ footer
 /* tablet méret*/
 @media only screen and (min-width:600px)
 {
-    footer{ background-color: green;}
+    footer{ background-color: gray;}
     
     #grid-container
 {
@@ -122,7 +127,7 @@ footer{ grid-column: 1 / 3;}
 @media only screen and (min-width:1200px)
 {
     
-    footer{ background-color: coral;}
+    footer{ background-color: gray;}
     #grid-container
 {
     display: grid;
