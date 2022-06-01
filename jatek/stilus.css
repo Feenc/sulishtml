@@ -9,12 +9,12 @@ body
 }
 header
 {
-    height: 100px;
+    height: 100x;
     padding:20px;
     text-align: right;
-    background-image: url("images/asdasd.jpg");
+    background-image: url("images/hatartalanul.jpg");
     background-position: center;
-    color: white;    
+    color: black;        
 }
 nav
 {
