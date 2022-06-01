@@ -62,7 +62,6 @@ footer
     background-color: gray;
     border-bottom: 1px solid black;
 } 
-
 header
 {
     background-color: gray;
@@ -79,6 +78,7 @@ nav
 {
     padding: 15px;
     background-color: gray;
+    color: white;
 }
 .tartalom h2
 {
