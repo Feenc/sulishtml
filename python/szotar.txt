@@ -3,3 +3,14 @@ up fel
 down le
 apple alma
 raspberry málna
+window ablak
+alma 
+window ablak
+alma 
+apple alma
+window ablak
+bed ágy
+up fel
+down le
+left val
+right jobb

@@ -65,14 +65,48 @@ def kerdez():
         print(abc[i]+": "+e[1])
         i+=1
     valasz=input("Válassz: ")
-    hol=abc.index(valasz)
-    print(hol)
-    while hol<4:
-       try:
-        valasz=input("Válassz újra: ")
-        hol=abc.index(valasz)
-       except(e):
-         pass
-beolvas()
-kerdez()
+
+    hol=4
+    while hol>=4:
+        try:
+            if valasz!="":   
+                hol=abc.index(valasz)
+        except:
+            valasz=input("Válassz újra: ")
+        else:
+            if hol>=4:
+                valasz=input("Válassz újra: ")
+
+    #if valasztott [0]==rossz[hol][0]:
+     #   print("Helyes: ")
+    #else:
+    #    print("Rossz válasz: ")
+
+    return valasztott[0]==rossz[hol][0]
+
+def menu():
+    beker=""
+    
+    while beker!="0":
+        print("-"*40)
+        print("Szótár program\n")
+        print("1: A szavak bevitele")
+        print("2: Feleltetes")    
+        print("3: Kilépés")
+        beker=input("Válassz: ")
+
+        if  beker=="1":
+            szavak=sokBeker()
+            filebaIr(szavak)
+        elif beker=="2":
+            beolvas()
+            lil_A=[]
+            for i in range(10):
+                lil_A.append(kerdez())
+            print("Az eredmény: (:.0%)".format(lil_A.count(True)/len(lil_A)))            
+menu()
+
+
+
+
 
