@@ -14,6 +14,3 @@ while i!=1:
  
 f.close()
 
-
-
-
