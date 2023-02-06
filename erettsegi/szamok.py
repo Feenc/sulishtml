@@ -30,7 +30,7 @@ valaszok=[]
 for e in kerdesek:
     valaszok.append(e[1])
 valaszok=[e[1] for e in kerdesek]
-print("A válaszok számértéke []t-től []-ig tart.".format(min(valaszok),max(valaszok)))
+print("A válaszok számértéke []-től []-ig tart.".format(min(valaszok),max(valaszok)))
 
 temakorok=[]
 for e in kerdesek:
@@ -46,8 +46,31 @@ random.choice
 sorsolt=random.choice(ujlista)
 
 valasz=input(sorsolt[0])
-if valasz==sorsolt[1]:
-    print(sorsolt[3]" pont")
+if int(valasz)==sorsolt[1]:
+    print(str(sorsolt[2])+" pont")
 else:
     print("0pont")
-    print("A helyes valasz. "+sorsolt[1])
+    print("A helyes valasz. "+str(sorsolt[1]))
+
+
+lista10=[]
+for i in range(10):
+    r=random.choice(kerdesek)
+    while r in lista10:
+        r=random.choice(kerdesek)
+    lista10.append(r)
+
+print(lista10)
+random.shuffle(kerdesek)
+lista10=kerdesek[0:10]
+print(len(lista10))
+
+f=open("tesztfel.txt","w")
+
+for e in lista10:
+    f.write(str(e[2])+" "+str(e[1])+" "str(e[0]+"\n")
+    ossz+=e[2]
+ossz=sum([e)
+f.write("A feladatsorra összesen [0] pont adható.".format(rossz))
+
+f.close
