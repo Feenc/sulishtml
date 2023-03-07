@@ -4,7 +4,7 @@ def pontSzamit (valasz,helyes):
         if betu==helyes[sorszam]:
             if sorszam<=5:
                 pont+=3
-            elif sorszam<10
+            elif sorszam<10:
                 pont +=4
 
 #1.feladathaha
