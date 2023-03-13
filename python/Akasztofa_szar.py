@@ -8,7 +8,7 @@ print("Akasztófa játék <3")
 rosszTalalat = 0
 maxRosszTalalat = 6
 tippeltBetu = []
-#also="_"
+also="_"
 
 while rosszTalalat < maxRosszTalalat:
     display_szo = ""
@@ -20,7 +20,7 @@ while rosszTalalat < maxRosszTalalat:
     print(display_szo)
 
     tipp = input("Tippelj egy betűre: ")
-    if len(tipp)==1: 
+#    if len(tipp)==1: 
         
         if tipp in tippeltBetu:
             print("Ezt a betűt már tippelted!")
@@ -29,7 +29,7 @@ while rosszTalalat < maxRosszTalalat:
 
             if betu in szo:
                 print("Gratulálok, ez a betű benne van a szóban!")
-                if "_" not in display_szo:
+                if also not in display_szo:
                     print("Gratulálok, nyertél!")
                     break
             else:

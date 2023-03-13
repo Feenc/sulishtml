@@ -1,3 +1,12 @@
+def oszlopVissza(hanyadik):
+    oszlop=[]
+    for e in tabla:
+        oszlop.append(e[hanyadik-1])
+
+    return oszlop
+def proba(hanyadik):
+    asd=[e[hanyadik-1::hanyadik]for e in tabla]
+    return asd
 gyumolcs=["alma","szolo","körte","barac","dragonfruit","licsi"]
 print("Ennyi gyümölcs van: {}".format(len(gyumolcs)))
 #print(gyumolcs[3])
@@ -70,5 +79,51 @@ masolat.reverse()
 print(",".join(masolat))
 
 print(",".join(masolat[:]))
+
+
+tabla=[]
+for i in range(20):
+    sor=[]
+    for k in range(10):
+        sor.append((i+1)*(k+1))
+    tabla.append(sor)
+
+#print(tabla)
+
+oszlop=[]
+for e in tabla:
+    oszlop.append(e[0])
+
+print(oszlop)
+print(oszlopVissza(5))
+print(oszlopVissza(6))
+oszlop=[e[:3]for e in tabla]
+oszlop=[e[4:7]for e in tabla]
+oszlop=[e[3::4]for e in tabla]
+#csinaljatok egy fuggvenyt ami megadja hogy hannyal oszthato
+#bekeres ami megad egy szamot ami az annyival oszthato szamot adjaki
+#3,7,1
+szam = int(input("Adj meg egy szamot: "))
+
+print("Azok a számok amelyek oszthatóak a " + str(szam) + "-val:")
+
+for i in range(1, 20):
+    if i % szam == 0:
+        print(i)
+#print(oszlop)
+
+
+print(proba(int(input("Kérek egy szamot: "))))
+oszlop=[[e[2],e[6],e[0]]for e in tabla]
+
+
+
+
+
+
+
+
+
+
 
 
