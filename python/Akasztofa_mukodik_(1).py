@@ -1,10 +1,11 @@
 import random
-
-szavak = ["nokedli", "körte", "tipp", "macska", "kutya","python"]
+f=open("proba.txt")
+szavak=[]
+for e in f:
+    szavak.append(e.replace("\n",""))
 szo = random.choice(szavak)
-
 print("Akasztófa játék <3")
-#print("Készítők: Verbulecz Bence,Ivánczi Ferenc,Haraszti Marcell,Keszericze Ákos.")
+
 rosszTalalat = 0
 maxRosszTalalat = 6
 tippeltBetu = []
@@ -19,6 +20,7 @@ while rosszTalalat < maxRosszTalalat:
             display_szo += also+" "
     if also not in display_szo:
         print("Gratulálok, nyertél!")
+        print("A helyes szó a(z) "+szo)
         break
 
     print(display_szo)
@@ -36,7 +38,9 @@ while rosszTalalat < maxRosszTalalat:
             rosszTalalat += 1
 
     print("Hibás tippjeid száma: " + str(rosszTalalat))
+    print()
 
     if rosszTalalat == maxRosszTalalat:
         print("Sajnos vesztettél. A szó: " + szo)
-
+f.close()
+#print("Készítők: Verbulecz Bence,Ivánczi Ferenc,Haraszti Marcell,Keszericze Ákos.")
