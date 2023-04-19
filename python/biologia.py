@@ -21,22 +21,25 @@ Frisch, 1775
 """
 
 class orszag():
-    def __init__(self,orszag)
+    def __init__(self,orszag):
         self.orszag=orszag
 
 class torzs(orszag):
-    def __init__(self,orszag,torzs)
+    def __init__(self,orszag,torzs):
         super.__init__(orszag)
         self.torzs=torzs
 class altorzs(torzs):
-    def __init__(self,orszag,torzs,altorzs)
-    super.__init__(orszag,torzs)
-    self.altorzs=altorzs
+    def __init__(self,orszag,torzs,altorzs):
+        super.__init__(orszag,torzs)
+        self.altorzs=altorzs
 class osztaly(altorzs):
-    super.__init__(orszag,torzs,altorzs)
-    self.osztaly=osztaly
+    def __init__(self,orszag,torzs,altorzs,osztaly):
+        super.__init__(orszag,torzs,altorzs)
+        self.osztaly=osztaly
 class alosztaly(osztaly):
-    super.__init__(orszag,torzs,altorzs,orzsag)
-    self.alosztaly=alosztaly
+    def __init__(self,orszag,torzs,altorzs,osztaly.alosztaly):
+        super.__init__(orszag,torzs,altorzs,osztaly,alosztaly):
+        self.alosztaly=alosztaly
 class alosztalyag(alosztaly):
-    super.__init
+     def __init__(self,orszag,torzs,altorzs,osztaly,alosztaly,alosztalyag):
+        super.__init(orszag,torzs,altorzs,osztaly,alosztaly,alosztalyag):
