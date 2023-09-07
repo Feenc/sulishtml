@@ -1,0 +1,7 @@
+H:\Ivánczi Ferenc\minden\elso\elso\bin\Debug\elso.exe.config
+H:\Ivánczi Ferenc\minden\elso\elso\bin\Debug\elso.exe
+H:\Ivánczi Ferenc\minden\elso\elso\bin\Debug\elso.pdb
+H:\Ivánczi Ferenc\minden\elso\elso\obj\Debug\elso.csproj.AssemblyReference.cache
+H:\Ivánczi Ferenc\minden\elso\elso\obj\Debug\elso.csproj.CoreCompileInputs.cache
+H:\Ivánczi Ferenc\minden\elso\elso\obj\Debug\elso.exe
+H:\Ivánczi Ferenc\minden\elso\elso\obj\Debug\elso.pdb
