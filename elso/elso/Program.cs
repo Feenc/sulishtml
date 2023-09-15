@@ -58,6 +58,60 @@ namespace elso
                     Console.WriteLine("valami mas");
                     break;
             }
+            double i = 1;
+            while (i < 5) 
+            {
+                Console.WriteLine(i);
+                i += .1;
+            }
+            do
+            {
+                i -= .2;
+                Console.WriteLine(i);
+            }
+            while (i > 1);
+            /*
+            char abc = 'a';
+            while (abc != 'z') 
+            {
+                Console.Write(abc);
+                abc = (char)(abc + 1);
+            }
+            Console.WriteLine();
+            int szam4=32;
+            while (szam4  <= 255) 
+            {
+                
+                Console.Write((char)szam4+ " ");
+                szam4 += 1;
+                if (szam4%8==0)
+                {
+                    Console.WriteLine();
+                }
+                */
+            int szamol = 0;
+            for (int k = 100; k < 1000; k++) 
+            {
+                szamol+=k;
+            }
+                Console.WriteLine(szamol);
+            for (int m = 9; m >= 0; m--) 
+            {
+                Console.WriteLine(m);
+            }
+            for (int n = 0; n < 10; n++) 
+            {
+
+                Console.WriteLine(9 - n);
+            }
+            
+
+
+        
+
+
+
         }
+
     }
 }
