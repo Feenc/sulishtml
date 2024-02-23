@@ -1,0 +1,7 @@
+C:\Users\ivanczif21\source\repos\asdasdasdasd\asdasdasdasd\obj\Debug\asdasdasdasd.csproj.AssemblyReference.cache
+C:\Users\ivanczif21\source\repos\asdasdasdasd\asdasdasdasd\obj\Debug\asdasdasdasd.csproj.CoreCompileInputs.cache
+C:\Users\ivanczif21\source\repos\asdasdasdasd\asdasdasdasd\bin\Debug\asdasdasdasd.exe.config
+C:\Users\ivanczif21\source\repos\asdasdasdasd\asdasdasdasd\bin\Debug\asdasdasdasd.exe
+C:\Users\ivanczif21\source\repos\asdasdasdasd\asdasdasdasd\bin\Debug\asdasdasdasd.pdb
+C:\Users\ivanczif21\source\repos\asdasdasdasd\asdasdasdasd\obj\Debug\asdasdasdasd.exe
+C:\Users\ivanczif21\source\repos\asdasdasdasd\asdasdasdasd\obj\Debug\asdasdasdasd.pdb

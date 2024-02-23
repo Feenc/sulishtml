@@ -1,0 +1,14 @@
+H:\Ivánczi Ferenc\minden\web2023\cegesauto\cegesauto\bin\Debug\net6.0\cegesauto.exe
+H:\Ivánczi Ferenc\minden\web2023\cegesauto\cegesauto\bin\Debug\net6.0\cegesauto.deps.json
+H:\Ivánczi Ferenc\minden\web2023\cegesauto\cegesauto\bin\Debug\net6.0\cegesauto.runtimeconfig.json
+H:\Ivánczi Ferenc\minden\web2023\cegesauto\cegesauto\bin\Debug\net6.0\cegesauto.dll
+H:\Ivánczi Ferenc\minden\web2023\cegesauto\cegesauto\bin\Debug\net6.0\cegesauto.pdb
+H:\Ivánczi Ferenc\minden\web2023\cegesauto\cegesauto\obj\Debug\net6.0\cegesauto.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ivánczi Ferenc\minden\web2023\cegesauto\cegesauto\obj\Debug\net6.0\cegesauto.AssemblyInfoInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\cegesauto\cegesauto\obj\Debug\net6.0\cegesauto.AssemblyInfo.cs
+H:\Ivánczi Ferenc\minden\web2023\cegesauto\cegesauto\obj\Debug\net6.0\cegesauto.csproj.CoreCompileInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\cegesauto\cegesauto\obj\Debug\net6.0\cegesauto.dll
+H:\Ivánczi Ferenc\minden\web2023\cegesauto\cegesauto\obj\Debug\net6.0\refint\cegesauto.dll
+H:\Ivánczi Ferenc\minden\web2023\cegesauto\cegesauto\obj\Debug\net6.0\cegesauto.pdb
+H:\Ivánczi Ferenc\minden\web2023\cegesauto\cegesauto\obj\Debug\net6.0\cegesauto.genruntimeconfig.cache
+H:\Ivánczi Ferenc\minden\web2023\cegesauto\cegesauto\obj\Debug\net6.0\ref\cegesauto.dll

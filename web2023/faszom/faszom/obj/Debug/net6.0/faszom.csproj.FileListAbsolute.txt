@@ -1,0 +1,14 @@
+C:\Users\ivanczif21\source\repos\faszom\faszom\bin\Debug\net6.0\faszom.exe
+C:\Users\ivanczif21\source\repos\faszom\faszom\bin\Debug\net6.0\faszom.deps.json
+C:\Users\ivanczif21\source\repos\faszom\faszom\bin\Debug\net6.0\faszom.runtimeconfig.json
+C:\Users\ivanczif21\source\repos\faszom\faszom\bin\Debug\net6.0\faszom.dll
+C:\Users\ivanczif21\source\repos\faszom\faszom\bin\Debug\net6.0\faszom.pdb
+C:\Users\ivanczif21\source\repos\faszom\faszom\obj\Debug\net6.0\faszom.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanczif21\source\repos\faszom\faszom\obj\Debug\net6.0\faszom.AssemblyInfoInputs.cache
+C:\Users\ivanczif21\source\repos\faszom\faszom\obj\Debug\net6.0\faszom.AssemblyInfo.cs
+C:\Users\ivanczif21\source\repos\faszom\faszom\obj\Debug\net6.0\faszom.csproj.CoreCompileInputs.cache
+C:\Users\ivanczif21\source\repos\faszom\faszom\obj\Debug\net6.0\faszom.dll
+C:\Users\ivanczif21\source\repos\faszom\faszom\obj\Debug\net6.0\refint\faszom.dll
+C:\Users\ivanczif21\source\repos\faszom\faszom\obj\Debug\net6.0\faszom.pdb
+C:\Users\ivanczif21\source\repos\faszom\faszom\obj\Debug\net6.0\faszom.genruntimeconfig.cache
+C:\Users\ivanczif21\source\repos\faszom\faszom\obj\Debug\net6.0\ref\faszom.dll

@@ -1,0 +1,14 @@
+H:\Ivánczi Ferenc\minden\web2023\dolgozathaha\dolgozathaha\obj\Debug\net6.0\dolgozathaha.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ivánczi Ferenc\minden\web2023\dolgozathaha\dolgozathaha\obj\Debug\net6.0\dolgozathaha.AssemblyInfoInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\dolgozathaha\dolgozathaha\obj\Debug\net6.0\dolgozathaha.AssemblyInfo.cs
+H:\Ivánczi Ferenc\minden\web2023\dolgozathaha\dolgozathaha\obj\Debug\net6.0\dolgozathaha.csproj.CoreCompileInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\dolgozathaha\dolgozathaha\bin\Debug\net6.0\dolgozathaha.exe
+H:\Ivánczi Ferenc\minden\web2023\dolgozathaha\dolgozathaha\bin\Debug\net6.0\dolgozathaha.deps.json
+H:\Ivánczi Ferenc\minden\web2023\dolgozathaha\dolgozathaha\bin\Debug\net6.0\dolgozathaha.runtimeconfig.json
+H:\Ivánczi Ferenc\minden\web2023\dolgozathaha\dolgozathaha\bin\Debug\net6.0\dolgozathaha.dll
+H:\Ivánczi Ferenc\minden\web2023\dolgozathaha\dolgozathaha\bin\Debug\net6.0\dolgozathaha.pdb
+H:\Ivánczi Ferenc\minden\web2023\dolgozathaha\dolgozathaha\obj\Debug\net6.0\dolgozathaha.dll
+H:\Ivánczi Ferenc\minden\web2023\dolgozathaha\dolgozathaha\obj\Debug\net6.0\refint\dolgozathaha.dll
+H:\Ivánczi Ferenc\minden\web2023\dolgozathaha\dolgozathaha\obj\Debug\net6.0\dolgozathaha.pdb
+H:\Ivánczi Ferenc\minden\web2023\dolgozathaha\dolgozathaha\obj\Debug\net6.0\dolgozathaha.genruntimeconfig.cache
+H:\Ivánczi Ferenc\minden\web2023\dolgozathaha\dolgozathaha\obj\Debug\net6.0\ref\dolgozathaha.dll

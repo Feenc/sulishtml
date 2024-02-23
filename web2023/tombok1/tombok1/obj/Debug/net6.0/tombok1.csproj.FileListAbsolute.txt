@@ -1,0 +1,14 @@
+H:\Ivánczi Ferenc\minden\web2023\tombok1\tombok1\bin\Debug\net6.0\tombok1.exe
+H:\Ivánczi Ferenc\minden\web2023\tombok1\tombok1\bin\Debug\net6.0\tombok1.deps.json
+H:\Ivánczi Ferenc\minden\web2023\tombok1\tombok1\bin\Debug\net6.0\tombok1.runtimeconfig.json
+H:\Ivánczi Ferenc\minden\web2023\tombok1\tombok1\bin\Debug\net6.0\tombok1.dll
+H:\Ivánczi Ferenc\minden\web2023\tombok1\tombok1\bin\Debug\net6.0\tombok1.pdb
+H:\Ivánczi Ferenc\minden\web2023\tombok1\tombok1\obj\Debug\net6.0\tombok1.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ivánczi Ferenc\minden\web2023\tombok1\tombok1\obj\Debug\net6.0\tombok1.AssemblyInfoInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\tombok1\tombok1\obj\Debug\net6.0\tombok1.AssemblyInfo.cs
+H:\Ivánczi Ferenc\minden\web2023\tombok1\tombok1\obj\Debug\net6.0\tombok1.csproj.CoreCompileInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\tombok1\tombok1\obj\Debug\net6.0\tombok1.dll
+H:\Ivánczi Ferenc\minden\web2023\tombok1\tombok1\obj\Debug\net6.0\refint\tombok1.dll
+H:\Ivánczi Ferenc\minden\web2023\tombok1\tombok1\obj\Debug\net6.0\tombok1.pdb
+H:\Ivánczi Ferenc\minden\web2023\tombok1\tombok1\obj\Debug\net6.0\tombok1.genruntimeconfig.cache
+H:\Ivánczi Ferenc\minden\web2023\tombok1\tombok1\obj\Debug\net6.0\ref\tombok1.dll

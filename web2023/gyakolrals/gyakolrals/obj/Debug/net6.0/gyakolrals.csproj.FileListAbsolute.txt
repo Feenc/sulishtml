@@ -1,0 +1,14 @@
+H:\Ivánczi Ferenc\minden\web2023\gyakolrals\gyakolrals\bin\Debug\net6.0\gyakolrals.exe
+H:\Ivánczi Ferenc\minden\web2023\gyakolrals\gyakolrals\bin\Debug\net6.0\gyakolrals.deps.json
+H:\Ivánczi Ferenc\minden\web2023\gyakolrals\gyakolrals\bin\Debug\net6.0\gyakolrals.runtimeconfig.json
+H:\Ivánczi Ferenc\minden\web2023\gyakolrals\gyakolrals\bin\Debug\net6.0\gyakolrals.dll
+H:\Ivánczi Ferenc\minden\web2023\gyakolrals\gyakolrals\bin\Debug\net6.0\gyakolrals.pdb
+H:\Ivánczi Ferenc\minden\web2023\gyakolrals\gyakolrals\obj\Debug\net6.0\gyakolrals.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ivánczi Ferenc\minden\web2023\gyakolrals\gyakolrals\obj\Debug\net6.0\gyakolrals.AssemblyInfoInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\gyakolrals\gyakolrals\obj\Debug\net6.0\gyakolrals.AssemblyInfo.cs
+H:\Ivánczi Ferenc\minden\web2023\gyakolrals\gyakolrals\obj\Debug\net6.0\gyakolrals.csproj.CoreCompileInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\gyakolrals\gyakolrals\obj\Debug\net6.0\gyakolrals.dll
+H:\Ivánczi Ferenc\minden\web2023\gyakolrals\gyakolrals\obj\Debug\net6.0\refint\gyakolrals.dll
+H:\Ivánczi Ferenc\minden\web2023\gyakolrals\gyakolrals\obj\Debug\net6.0\gyakolrals.pdb
+H:\Ivánczi Ferenc\minden\web2023\gyakolrals\gyakolrals\obj\Debug\net6.0\gyakolrals.genruntimeconfig.cache
+H:\Ivánczi Ferenc\minden\web2023\gyakolrals\gyakolrals\obj\Debug\net6.0\ref\gyakolrals.dll

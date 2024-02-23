@@ -1,0 +1,14 @@
+C:\Users\ivanczif21\source\repos\gyakorlas1231\gyakorlas1231\bin\Debug\net6.0\gyakorlas1231.exe
+C:\Users\ivanczif21\source\repos\gyakorlas1231\gyakorlas1231\bin\Debug\net6.0\gyakorlas1231.deps.json
+C:\Users\ivanczif21\source\repos\gyakorlas1231\gyakorlas1231\bin\Debug\net6.0\gyakorlas1231.runtimeconfig.json
+C:\Users\ivanczif21\source\repos\gyakorlas1231\gyakorlas1231\bin\Debug\net6.0\gyakorlas1231.dll
+C:\Users\ivanczif21\source\repos\gyakorlas1231\gyakorlas1231\bin\Debug\net6.0\gyakorlas1231.pdb
+C:\Users\ivanczif21\source\repos\gyakorlas1231\gyakorlas1231\obj\Debug\net6.0\gyakorlas1231.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanczif21\source\repos\gyakorlas1231\gyakorlas1231\obj\Debug\net6.0\gyakorlas1231.AssemblyInfoInputs.cache
+C:\Users\ivanczif21\source\repos\gyakorlas1231\gyakorlas1231\obj\Debug\net6.0\gyakorlas1231.AssemblyInfo.cs
+C:\Users\ivanczif21\source\repos\gyakorlas1231\gyakorlas1231\obj\Debug\net6.0\gyakorlas1231.csproj.CoreCompileInputs.cache
+C:\Users\ivanczif21\source\repos\gyakorlas1231\gyakorlas1231\obj\Debug\net6.0\gyakorlas1231.dll
+C:\Users\ivanczif21\source\repos\gyakorlas1231\gyakorlas1231\obj\Debug\net6.0\refint\gyakorlas1231.dll
+C:\Users\ivanczif21\source\repos\gyakorlas1231\gyakorlas1231\obj\Debug\net6.0\gyakorlas1231.pdb
+C:\Users\ivanczif21\source\repos\gyakorlas1231\gyakorlas1231\obj\Debug\net6.0\gyakorlas1231.genruntimeconfig.cache
+C:\Users\ivanczif21\source\repos\gyakorlas1231\gyakorlas1231\obj\Debug\net6.0\ref\gyakorlas1231.dll

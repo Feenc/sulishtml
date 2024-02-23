@@ -1,0 +1,14 @@
+H:\Ivánczi Ferenc\minden\web2023\uzemanyag\uzemanyag\bin\Debug\net6.0\uzemanyag.exe
+H:\Ivánczi Ferenc\minden\web2023\uzemanyag\uzemanyag\bin\Debug\net6.0\uzemanyag.deps.json
+H:\Ivánczi Ferenc\minden\web2023\uzemanyag\uzemanyag\bin\Debug\net6.0\uzemanyag.runtimeconfig.json
+H:\Ivánczi Ferenc\minden\web2023\uzemanyag\uzemanyag\bin\Debug\net6.0\uzemanyag.dll
+H:\Ivánczi Ferenc\minden\web2023\uzemanyag\uzemanyag\bin\Debug\net6.0\uzemanyag.pdb
+H:\Ivánczi Ferenc\minden\web2023\uzemanyag\uzemanyag\obj\Debug\net6.0\uzemanyag.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ivánczi Ferenc\minden\web2023\uzemanyag\uzemanyag\obj\Debug\net6.0\uzemanyag.AssemblyInfoInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\uzemanyag\uzemanyag\obj\Debug\net6.0\uzemanyag.AssemblyInfo.cs
+H:\Ivánczi Ferenc\minden\web2023\uzemanyag\uzemanyag\obj\Debug\net6.0\uzemanyag.csproj.CoreCompileInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\uzemanyag\uzemanyag\obj\Debug\net6.0\uzemanyag.dll
+H:\Ivánczi Ferenc\minden\web2023\uzemanyag\uzemanyag\obj\Debug\net6.0\refint\uzemanyag.dll
+H:\Ivánczi Ferenc\minden\web2023\uzemanyag\uzemanyag\obj\Debug\net6.0\uzemanyag.pdb
+H:\Ivánczi Ferenc\minden\web2023\uzemanyag\uzemanyag\obj\Debug\net6.0\uzemanyag.genruntimeconfig.cache
+H:\Ivánczi Ferenc\minden\web2023\uzemanyag\uzemanyag\obj\Debug\net6.0\ref\uzemanyag.dll

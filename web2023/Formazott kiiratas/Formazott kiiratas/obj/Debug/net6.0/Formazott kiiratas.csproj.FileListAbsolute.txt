@@ -1,0 +1,14 @@
+H:\Ivánczi Ferenc\minden\web2023\Formazott kiiratas\Formazott kiiratas\bin\Debug\net6.0\Formazott kiiratas.exe
+H:\Ivánczi Ferenc\minden\web2023\Formazott kiiratas\Formazott kiiratas\bin\Debug\net6.0\Formazott kiiratas.deps.json
+H:\Ivánczi Ferenc\minden\web2023\Formazott kiiratas\Formazott kiiratas\bin\Debug\net6.0\Formazott kiiratas.runtimeconfig.json
+H:\Ivánczi Ferenc\minden\web2023\Formazott kiiratas\Formazott kiiratas\bin\Debug\net6.0\Formazott kiiratas.dll
+H:\Ivánczi Ferenc\minden\web2023\Formazott kiiratas\Formazott kiiratas\bin\Debug\net6.0\Formazott kiiratas.pdb
+H:\Ivánczi Ferenc\minden\web2023\Formazott kiiratas\Formazott kiiratas\obj\Debug\net6.0\Formazott kiiratas.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ivánczi Ferenc\minden\web2023\Formazott kiiratas\Formazott kiiratas\obj\Debug\net6.0\Formazott kiiratas.AssemblyInfoInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\Formazott kiiratas\Formazott kiiratas\obj\Debug\net6.0\Formazott kiiratas.AssemblyInfo.cs
+H:\Ivánczi Ferenc\minden\web2023\Formazott kiiratas\Formazott kiiratas\obj\Debug\net6.0\Formazott kiiratas.csproj.CoreCompileInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\Formazott kiiratas\Formazott kiiratas\obj\Debug\net6.0\Formazott kiiratas.dll
+H:\Ivánczi Ferenc\minden\web2023\Formazott kiiratas\Formazott kiiratas\obj\Debug\net6.0\refint\Formazott kiiratas.dll
+H:\Ivánczi Ferenc\minden\web2023\Formazott kiiratas\Formazott kiiratas\obj\Debug\net6.0\Formazott kiiratas.pdb
+H:\Ivánczi Ferenc\minden\web2023\Formazott kiiratas\Formazott kiiratas\obj\Debug\net6.0\Formazott kiiratas.genruntimeconfig.cache
+H:\Ivánczi Ferenc\minden\web2023\Formazott kiiratas\Formazott kiiratas\obj\Debug\net6.0\ref\Formazott kiiratas.dll

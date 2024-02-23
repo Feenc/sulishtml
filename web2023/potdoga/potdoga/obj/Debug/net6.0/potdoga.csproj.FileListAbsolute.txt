@@ -1,0 +1,14 @@
+H:\Ivánczi Ferenc\minden\web2023\potdoga\potdoga\obj\Debug\net6.0\potdoga.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ivánczi Ferenc\minden\web2023\potdoga\potdoga\obj\Debug\net6.0\potdoga.AssemblyInfoInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\potdoga\potdoga\obj\Debug\net6.0\potdoga.AssemblyInfo.cs
+H:\Ivánczi Ferenc\minden\web2023\potdoga\potdoga\obj\Debug\net6.0\potdoga.csproj.CoreCompileInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\potdoga\potdoga\bin\Debug\net6.0\potdoga.exe
+H:\Ivánczi Ferenc\minden\web2023\potdoga\potdoga\bin\Debug\net6.0\potdoga.deps.json
+H:\Ivánczi Ferenc\minden\web2023\potdoga\potdoga\bin\Debug\net6.0\potdoga.runtimeconfig.json
+H:\Ivánczi Ferenc\minden\web2023\potdoga\potdoga\bin\Debug\net6.0\potdoga.dll
+H:\Ivánczi Ferenc\minden\web2023\potdoga\potdoga\bin\Debug\net6.0\potdoga.pdb
+H:\Ivánczi Ferenc\minden\web2023\potdoga\potdoga\obj\Debug\net6.0\potdoga.dll
+H:\Ivánczi Ferenc\minden\web2023\potdoga\potdoga\obj\Debug\net6.0\refint\potdoga.dll
+H:\Ivánczi Ferenc\minden\web2023\potdoga\potdoga\obj\Debug\net6.0\potdoga.pdb
+H:\Ivánczi Ferenc\minden\web2023\potdoga\potdoga\obj\Debug\net6.0\potdoga.genruntimeconfig.cache
+H:\Ivánczi Ferenc\minden\web2023\potdoga\potdoga\obj\Debug\net6.0\ref\potdoga.dll

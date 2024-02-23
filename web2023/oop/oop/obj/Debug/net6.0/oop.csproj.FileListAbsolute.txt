@@ -1,0 +1,14 @@
+H:\Ivánczi Ferenc\minden\web2023\oop\oop\bin\Debug\net6.0\oop.exe
+H:\Ivánczi Ferenc\minden\web2023\oop\oop\bin\Debug\net6.0\oop.deps.json
+H:\Ivánczi Ferenc\minden\web2023\oop\oop\bin\Debug\net6.0\oop.runtimeconfig.json
+H:\Ivánczi Ferenc\minden\web2023\oop\oop\bin\Debug\net6.0\oop.dll
+H:\Ivánczi Ferenc\minden\web2023\oop\oop\bin\Debug\net6.0\oop.pdb
+H:\Ivánczi Ferenc\minden\web2023\oop\oop\obj\Debug\net6.0\oop.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ivánczi Ferenc\minden\web2023\oop\oop\obj\Debug\net6.0\oop.AssemblyInfoInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\oop\oop\obj\Debug\net6.0\oop.AssemblyInfo.cs
+H:\Ivánczi Ferenc\minden\web2023\oop\oop\obj\Debug\net6.0\oop.csproj.CoreCompileInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\oop\oop\obj\Debug\net6.0\oop.dll
+H:\Ivánczi Ferenc\minden\web2023\oop\oop\obj\Debug\net6.0\refint\oop.dll
+H:\Ivánczi Ferenc\minden\web2023\oop\oop\obj\Debug\net6.0\oop.pdb
+H:\Ivánczi Ferenc\minden\web2023\oop\oop\obj\Debug\net6.0\oop.genruntimeconfig.cache
+H:\Ivánczi Ferenc\minden\web2023\oop\oop\obj\Debug\net6.0\ref\oop.dll

@@ -1,0 +1,14 @@
+C:\Users\ivanczif21\source\repos\asddsaasd\asddsaasd\obj\Debug\net6.0\asddsaasd.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanczif21\source\repos\asddsaasd\asddsaasd\obj\Debug\net6.0\asddsaasd.AssemblyInfoInputs.cache
+C:\Users\ivanczif21\source\repos\asddsaasd\asddsaasd\obj\Debug\net6.0\asddsaasd.AssemblyInfo.cs
+C:\Users\ivanczif21\source\repos\asddsaasd\asddsaasd\obj\Debug\net6.0\asddsaasd.csproj.CoreCompileInputs.cache
+C:\Users\ivanczif21\source\repos\asddsaasd\asddsaasd\bin\Debug\net6.0\asddsaasd.exe
+C:\Users\ivanczif21\source\repos\asddsaasd\asddsaasd\bin\Debug\net6.0\asddsaasd.deps.json
+C:\Users\ivanczif21\source\repos\asddsaasd\asddsaasd\bin\Debug\net6.0\asddsaasd.runtimeconfig.json
+C:\Users\ivanczif21\source\repos\asddsaasd\asddsaasd\bin\Debug\net6.0\asddsaasd.dll
+C:\Users\ivanczif21\source\repos\asddsaasd\asddsaasd\bin\Debug\net6.0\asddsaasd.pdb
+C:\Users\ivanczif21\source\repos\asddsaasd\asddsaasd\obj\Debug\net6.0\asddsaasd.dll
+C:\Users\ivanczif21\source\repos\asddsaasd\asddsaasd\obj\Debug\net6.0\refint\asddsaasd.dll
+C:\Users\ivanczif21\source\repos\asddsaasd\asddsaasd\obj\Debug\net6.0\asddsaasd.pdb
+C:\Users\ivanczif21\source\repos\asddsaasd\asddsaasd\obj\Debug\net6.0\asddsaasd.genruntimeconfig.cache
+C:\Users\ivanczif21\source\repos\asddsaasd\asddsaasd\obj\Debug\net6.0\ref\asddsaasd.dll

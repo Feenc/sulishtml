@@ -1,0 +1,14 @@
+H:\Ivánczi Ferenc\minden\web2023\faszdasdasd\faszdasdasd\bin\Debug\net6.0\faszdasdasd.exe
+H:\Ivánczi Ferenc\minden\web2023\faszdasdasd\faszdasdasd\bin\Debug\net6.0\faszdasdasd.deps.json
+H:\Ivánczi Ferenc\minden\web2023\faszdasdasd\faszdasdasd\bin\Debug\net6.0\faszdasdasd.runtimeconfig.json
+H:\Ivánczi Ferenc\minden\web2023\faszdasdasd\faszdasdasd\bin\Debug\net6.0\faszdasdasd.dll
+H:\Ivánczi Ferenc\minden\web2023\faszdasdasd\faszdasdasd\bin\Debug\net6.0\faszdasdasd.pdb
+H:\Ivánczi Ferenc\minden\web2023\faszdasdasd\faszdasdasd\obj\Debug\net6.0\faszdasdasd.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ivánczi Ferenc\minden\web2023\faszdasdasd\faszdasdasd\obj\Debug\net6.0\faszdasdasd.AssemblyInfoInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\faszdasdasd\faszdasdasd\obj\Debug\net6.0\faszdasdasd.AssemblyInfo.cs
+H:\Ivánczi Ferenc\minden\web2023\faszdasdasd\faszdasdasd\obj\Debug\net6.0\faszdasdasd.csproj.CoreCompileInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\faszdasdasd\faszdasdasd\obj\Debug\net6.0\faszdasdasd.dll
+H:\Ivánczi Ferenc\minden\web2023\faszdasdasd\faszdasdasd\obj\Debug\net6.0\refint\faszdasdasd.dll
+H:\Ivánczi Ferenc\minden\web2023\faszdasdasd\faszdasdasd\obj\Debug\net6.0\faszdasdasd.pdb
+H:\Ivánczi Ferenc\minden\web2023\faszdasdasd\faszdasdasd\obj\Debug\net6.0\faszdasdasd.genruntimeconfig.cache
+H:\Ivánczi Ferenc\minden\web2023\faszdasdasd\faszdasdasd\obj\Debug\net6.0\ref\faszdasdasd.dll

@@ -1,0 +1,14 @@
+H:\Ivánczi Ferenc\minden\web2023\foci\foci\bin\Debug\net6.0\foci.exe
+H:\Ivánczi Ferenc\minden\web2023\foci\foci\bin\Debug\net6.0\foci.deps.json
+H:\Ivánczi Ferenc\minden\web2023\foci\foci\bin\Debug\net6.0\foci.runtimeconfig.json
+H:\Ivánczi Ferenc\minden\web2023\foci\foci\bin\Debug\net6.0\foci.dll
+H:\Ivánczi Ferenc\minden\web2023\foci\foci\bin\Debug\net6.0\foci.pdb
+H:\Ivánczi Ferenc\minden\web2023\foci\foci\obj\Debug\net6.0\foci.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ivánczi Ferenc\minden\web2023\foci\foci\obj\Debug\net6.0\foci.AssemblyInfoInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\foci\foci\obj\Debug\net6.0\foci.AssemblyInfo.cs
+H:\Ivánczi Ferenc\minden\web2023\foci\foci\obj\Debug\net6.0\foci.csproj.CoreCompileInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\foci\foci\obj\Debug\net6.0\foci.dll
+H:\Ivánczi Ferenc\minden\web2023\foci\foci\obj\Debug\net6.0\refint\foci.dll
+H:\Ivánczi Ferenc\minden\web2023\foci\foci\obj\Debug\net6.0\foci.pdb
+H:\Ivánczi Ferenc\minden\web2023\foci\foci\obj\Debug\net6.0\foci.genruntimeconfig.cache
+H:\Ivánczi Ferenc\minden\web2023\foci\foci\obj\Debug\net6.0\ref\foci.dll

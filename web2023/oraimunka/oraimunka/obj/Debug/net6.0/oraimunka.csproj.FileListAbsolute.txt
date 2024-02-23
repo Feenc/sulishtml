@@ -1,0 +1,14 @@
+C:\Users\ivanczif21\source\repos\oraimunka\oraimunka\bin\Debug\net6.0\oraimunka.exe
+C:\Users\ivanczif21\source\repos\oraimunka\oraimunka\bin\Debug\net6.0\oraimunka.deps.json
+C:\Users\ivanczif21\source\repos\oraimunka\oraimunka\bin\Debug\net6.0\oraimunka.runtimeconfig.json
+C:\Users\ivanczif21\source\repos\oraimunka\oraimunka\bin\Debug\net6.0\oraimunka.dll
+C:\Users\ivanczif21\source\repos\oraimunka\oraimunka\bin\Debug\net6.0\oraimunka.pdb
+C:\Users\ivanczif21\source\repos\oraimunka\oraimunka\obj\Debug\net6.0\oraimunka.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanczif21\source\repos\oraimunka\oraimunka\obj\Debug\net6.0\oraimunka.AssemblyInfoInputs.cache
+C:\Users\ivanczif21\source\repos\oraimunka\oraimunka\obj\Debug\net6.0\oraimunka.AssemblyInfo.cs
+C:\Users\ivanczif21\source\repos\oraimunka\oraimunka\obj\Debug\net6.0\oraimunka.csproj.CoreCompileInputs.cache
+C:\Users\ivanczif21\source\repos\oraimunka\oraimunka\obj\Debug\net6.0\oraimunka.dll
+C:\Users\ivanczif21\source\repos\oraimunka\oraimunka\obj\Debug\net6.0\refint\oraimunka.dll
+C:\Users\ivanczif21\source\repos\oraimunka\oraimunka\obj\Debug\net6.0\oraimunka.pdb
+C:\Users\ivanczif21\source\repos\oraimunka\oraimunka\obj\Debug\net6.0\oraimunka.genruntimeconfig.cache
+C:\Users\ivanczif21\source\repos\oraimunka\oraimunka\obj\Debug\net6.0\ref\oraimunka.dll

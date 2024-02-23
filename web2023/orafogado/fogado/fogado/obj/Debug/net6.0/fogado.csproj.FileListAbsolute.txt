@@ -1,0 +1,14 @@
+H:\Ivánczi Ferenc\minden\web2023\orafogado\fogado\fogado\bin\Debug\net6.0\fogado.exe
+H:\Ivánczi Ferenc\minden\web2023\orafogado\fogado\fogado\bin\Debug\net6.0\fogado.deps.json
+H:\Ivánczi Ferenc\minden\web2023\orafogado\fogado\fogado\bin\Debug\net6.0\fogado.runtimeconfig.json
+H:\Ivánczi Ferenc\minden\web2023\orafogado\fogado\fogado\bin\Debug\net6.0\fogado.dll
+H:\Ivánczi Ferenc\minden\web2023\orafogado\fogado\fogado\bin\Debug\net6.0\fogado.pdb
+H:\Ivánczi Ferenc\minden\web2023\orafogado\fogado\fogado\obj\Debug\net6.0\fogado.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ivánczi Ferenc\minden\web2023\orafogado\fogado\fogado\obj\Debug\net6.0\fogado.AssemblyInfoInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\orafogado\fogado\fogado\obj\Debug\net6.0\fogado.AssemblyInfo.cs
+H:\Ivánczi Ferenc\minden\web2023\orafogado\fogado\fogado\obj\Debug\net6.0\fogado.csproj.CoreCompileInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\orafogado\fogado\fogado\obj\Debug\net6.0\fogado.dll
+H:\Ivánczi Ferenc\minden\web2023\orafogado\fogado\fogado\obj\Debug\net6.0\refint\fogado.dll
+H:\Ivánczi Ferenc\minden\web2023\orafogado\fogado\fogado\obj\Debug\net6.0\fogado.pdb
+H:\Ivánczi Ferenc\minden\web2023\orafogado\fogado\fogado\obj\Debug\net6.0\fogado.genruntimeconfig.cache
+H:\Ivánczi Ferenc\minden\web2023\orafogado\fogado\fogado\obj\Debug\net6.0\ref\fogado.dll

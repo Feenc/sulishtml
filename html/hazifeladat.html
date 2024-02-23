@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="hu">
+<head>
+    <meta charset="UTF-8">    
+    <title>asd</title>
+</head>
+<body>
+
+<script>
+    
+    var szamTomb = [1, 2, 3, 4, 5];    
+    document.write("Tömb elemei egymás mellé: ");
+    for (var i = 0; i < szamTomb.length; i++) {
+        document.write(szamTomb[i] + " ");
+    }
+    document.write("<br>");     
+    document.write("Szomszédos elemek egymás mellé: ");
+    for (var i = 0; i < szamTomb.length - 1; i++) {
+        document.write(szamTomb[i] + " és " + szamTomb[i + 1] + " ");
+    }
+</script>
+
+</body>
+</html>

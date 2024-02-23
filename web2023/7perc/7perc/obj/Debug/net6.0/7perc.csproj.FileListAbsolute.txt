@@ -1,0 +1,14 @@
+H:\Ivánczi Ferenc\minden\web2023\7perc\7perc\bin\Debug\net6.0\7perc.exe
+H:\Ivánczi Ferenc\minden\web2023\7perc\7perc\bin\Debug\net6.0\7perc.deps.json
+H:\Ivánczi Ferenc\minden\web2023\7perc\7perc\bin\Debug\net6.0\7perc.runtimeconfig.json
+H:\Ivánczi Ferenc\minden\web2023\7perc\7perc\bin\Debug\net6.0\7perc.dll
+H:\Ivánczi Ferenc\minden\web2023\7perc\7perc\bin\Debug\net6.0\7perc.pdb
+H:\Ivánczi Ferenc\minden\web2023\7perc\7perc\obj\Debug\net6.0\7perc.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ivánczi Ferenc\minden\web2023\7perc\7perc\obj\Debug\net6.0\7perc.AssemblyInfoInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\7perc\7perc\obj\Debug\net6.0\7perc.AssemblyInfo.cs
+H:\Ivánczi Ferenc\minden\web2023\7perc\7perc\obj\Debug\net6.0\7perc.csproj.CoreCompileInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\7perc\7perc\obj\Debug\net6.0\7perc.dll
+H:\Ivánczi Ferenc\minden\web2023\7perc\7perc\obj\Debug\net6.0\refint\7perc.dll
+H:\Ivánczi Ferenc\minden\web2023\7perc\7perc\obj\Debug\net6.0\7perc.pdb
+H:\Ivánczi Ferenc\minden\web2023\7perc\7perc\obj\Debug\net6.0\7perc.genruntimeconfig.cache
+H:\Ivánczi Ferenc\minden\web2023\7perc\7perc\obj\Debug\net6.0\ref\7perc.dll

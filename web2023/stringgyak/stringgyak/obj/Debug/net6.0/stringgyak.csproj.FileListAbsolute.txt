@@ -1,0 +1,14 @@
+H:\Ivánczi Ferenc\minden\web2023\stringgyak\stringgyak\bin\Debug\net6.0\stringgyak.exe
+H:\Ivánczi Ferenc\minden\web2023\stringgyak\stringgyak\bin\Debug\net6.0\stringgyak.deps.json
+H:\Ivánczi Ferenc\minden\web2023\stringgyak\stringgyak\bin\Debug\net6.0\stringgyak.runtimeconfig.json
+H:\Ivánczi Ferenc\minden\web2023\stringgyak\stringgyak\bin\Debug\net6.0\stringgyak.dll
+H:\Ivánczi Ferenc\minden\web2023\stringgyak\stringgyak\bin\Debug\net6.0\stringgyak.pdb
+H:\Ivánczi Ferenc\minden\web2023\stringgyak\stringgyak\obj\Debug\net6.0\stringgyak.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ivánczi Ferenc\minden\web2023\stringgyak\stringgyak\obj\Debug\net6.0\stringgyak.AssemblyInfoInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\stringgyak\stringgyak\obj\Debug\net6.0\stringgyak.AssemblyInfo.cs
+H:\Ivánczi Ferenc\minden\web2023\stringgyak\stringgyak\obj\Debug\net6.0\stringgyak.csproj.CoreCompileInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\stringgyak\stringgyak\obj\Debug\net6.0\stringgyak.dll
+H:\Ivánczi Ferenc\minden\web2023\stringgyak\stringgyak\obj\Debug\net6.0\refint\stringgyak.dll
+H:\Ivánczi Ferenc\minden\web2023\stringgyak\stringgyak\obj\Debug\net6.0\stringgyak.pdb
+H:\Ivánczi Ferenc\minden\web2023\stringgyak\stringgyak\obj\Debug\net6.0\stringgyak.genruntimeconfig.cache
+H:\Ivánczi Ferenc\minden\web2023\stringgyak\stringgyak\obj\Debug\net6.0\ref\stringgyak.dll

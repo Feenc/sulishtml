@@ -1,0 +1,14 @@
+H:\Ivánczi Ferenc\minden\web2023\fuggveny\fuggveny\bin\Debug\net6.0\fuggveny.exe
+H:\Ivánczi Ferenc\minden\web2023\fuggveny\fuggveny\bin\Debug\net6.0\fuggveny.deps.json
+H:\Ivánczi Ferenc\minden\web2023\fuggveny\fuggveny\bin\Debug\net6.0\fuggveny.runtimeconfig.json
+H:\Ivánczi Ferenc\minden\web2023\fuggveny\fuggveny\bin\Debug\net6.0\fuggveny.dll
+H:\Ivánczi Ferenc\minden\web2023\fuggveny\fuggveny\bin\Debug\net6.0\fuggveny.pdb
+H:\Ivánczi Ferenc\minden\web2023\fuggveny\fuggveny\obj\Debug\net6.0\fuggveny.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ivánczi Ferenc\minden\web2023\fuggveny\fuggveny\obj\Debug\net6.0\fuggveny.AssemblyInfoInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\fuggveny\fuggveny\obj\Debug\net6.0\fuggveny.AssemblyInfo.cs
+H:\Ivánczi Ferenc\minden\web2023\fuggveny\fuggveny\obj\Debug\net6.0\fuggveny.csproj.CoreCompileInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\fuggveny\fuggveny\obj\Debug\net6.0\fuggveny.dll
+H:\Ivánczi Ferenc\minden\web2023\fuggveny\fuggveny\obj\Debug\net6.0\refint\fuggveny.dll
+H:\Ivánczi Ferenc\minden\web2023\fuggveny\fuggveny\obj\Debug\net6.0\fuggveny.pdb
+H:\Ivánczi Ferenc\minden\web2023\fuggveny\fuggveny\obj\Debug\net6.0\fuggveny.genruntimeconfig.cache
+H:\Ivánczi Ferenc\minden\web2023\fuggveny\fuggveny\obj\Debug\net6.0\ref\fuggveny.dll

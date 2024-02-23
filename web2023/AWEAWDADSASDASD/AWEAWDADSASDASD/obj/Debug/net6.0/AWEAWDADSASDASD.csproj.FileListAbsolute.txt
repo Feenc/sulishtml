@@ -1,0 +1,14 @@
+H:\Ivánczi Ferenc\minden\web2023\AWEAWDADSASDASD\AWEAWDADSASDASD\obj\Debug\net6.0\AWEAWDADSASDASD.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ivánczi Ferenc\minden\web2023\AWEAWDADSASDASD\AWEAWDADSASDASD\obj\Debug\net6.0\AWEAWDADSASDASD.AssemblyInfoInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\AWEAWDADSASDASD\AWEAWDADSASDASD\obj\Debug\net6.0\AWEAWDADSASDASD.AssemblyInfo.cs
+H:\Ivánczi Ferenc\minden\web2023\AWEAWDADSASDASD\AWEAWDADSASDASD\obj\Debug\net6.0\AWEAWDADSASDASD.csproj.CoreCompileInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\AWEAWDADSASDASD\AWEAWDADSASDASD\bin\Debug\net6.0\AWEAWDADSASDASD.exe
+H:\Ivánczi Ferenc\minden\web2023\AWEAWDADSASDASD\AWEAWDADSASDASD\bin\Debug\net6.0\AWEAWDADSASDASD.deps.json
+H:\Ivánczi Ferenc\minden\web2023\AWEAWDADSASDASD\AWEAWDADSASDASD\bin\Debug\net6.0\AWEAWDADSASDASD.runtimeconfig.json
+H:\Ivánczi Ferenc\minden\web2023\AWEAWDADSASDASD\AWEAWDADSASDASD\bin\Debug\net6.0\AWEAWDADSASDASD.dll
+H:\Ivánczi Ferenc\minden\web2023\AWEAWDADSASDASD\AWEAWDADSASDASD\bin\Debug\net6.0\AWEAWDADSASDASD.pdb
+H:\Ivánczi Ferenc\minden\web2023\AWEAWDADSASDASD\AWEAWDADSASDASD\obj\Debug\net6.0\AWEAWDADSASDASD.dll
+H:\Ivánczi Ferenc\minden\web2023\AWEAWDADSASDASD\AWEAWDADSASDASD\obj\Debug\net6.0\refint\AWEAWDADSASDASD.dll
+H:\Ivánczi Ferenc\minden\web2023\AWEAWDADSASDASD\AWEAWDADSASDASD\obj\Debug\net6.0\AWEAWDADSASDASD.pdb
+H:\Ivánczi Ferenc\minden\web2023\AWEAWDADSASDASD\AWEAWDADSASDASD\obj\Debug\net6.0\AWEAWDADSASDASD.genruntimeconfig.cache
+H:\Ivánczi Ferenc\minden\web2023\AWEAWDADSASDASD\AWEAWDADSASDASD\obj\Debug\net6.0\ref\AWEAWDADSASDASD.dll

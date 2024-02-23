@@ -1,0 +1,14 @@
+H:\Ivánczi Ferenc\minden\web2023\projekt\projekt\bin\Debug\net6.0\projekt.exe
+H:\Ivánczi Ferenc\minden\web2023\projekt\projekt\bin\Debug\net6.0\projekt.deps.json
+H:\Ivánczi Ferenc\minden\web2023\projekt\projekt\bin\Debug\net6.0\projekt.runtimeconfig.json
+H:\Ivánczi Ferenc\minden\web2023\projekt\projekt\bin\Debug\net6.0\projekt.dll
+H:\Ivánczi Ferenc\minden\web2023\projekt\projekt\bin\Debug\net6.0\projekt.pdb
+H:\Ivánczi Ferenc\minden\web2023\projekt\projekt\obj\Debug\net6.0\projekt.GeneratedMSBuildEditorConfig.editorconfig
+H:\Ivánczi Ferenc\minden\web2023\projekt\projekt\obj\Debug\net6.0\projekt.AssemblyInfoInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\projekt\projekt\obj\Debug\net6.0\projekt.AssemblyInfo.cs
+H:\Ivánczi Ferenc\minden\web2023\projekt\projekt\obj\Debug\net6.0\projekt.csproj.CoreCompileInputs.cache
+H:\Ivánczi Ferenc\minden\web2023\projekt\projekt\obj\Debug\net6.0\projekt.dll
+H:\Ivánczi Ferenc\minden\web2023\projekt\projekt\obj\Debug\net6.0\refint\projekt.dll
+H:\Ivánczi Ferenc\minden\web2023\projekt\projekt\obj\Debug\net6.0\projekt.pdb
+H:\Ivánczi Ferenc\minden\web2023\projekt\projekt\obj\Debug\net6.0\projekt.genruntimeconfig.cache
+H:\Ivánczi Ferenc\minden\web2023\projekt\projekt\obj\Debug\net6.0\ref\projekt.dll

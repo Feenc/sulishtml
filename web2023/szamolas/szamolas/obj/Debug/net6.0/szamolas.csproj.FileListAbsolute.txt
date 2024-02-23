@@ -1,0 +1,14 @@
+C:\Users\ivanczif21\source\repos\szamolas\szamolas\bin\Debug\net6.0\szamolas.exe
+C:\Users\ivanczif21\source\repos\szamolas\szamolas\bin\Debug\net6.0\szamolas.deps.json
+C:\Users\ivanczif21\source\repos\szamolas\szamolas\bin\Debug\net6.0\szamolas.runtimeconfig.json
+C:\Users\ivanczif21\source\repos\szamolas\szamolas\bin\Debug\net6.0\szamolas.dll
+C:\Users\ivanczif21\source\repos\szamolas\szamolas\bin\Debug\net6.0\szamolas.pdb
+C:\Users\ivanczif21\source\repos\szamolas\szamolas\obj\Debug\net6.0\szamolas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ivanczif21\source\repos\szamolas\szamolas\obj\Debug\net6.0\szamolas.AssemblyInfoInputs.cache
+C:\Users\ivanczif21\source\repos\szamolas\szamolas\obj\Debug\net6.0\szamolas.AssemblyInfo.cs
+C:\Users\ivanczif21\source\repos\szamolas\szamolas\obj\Debug\net6.0\szamolas.csproj.CoreCompileInputs.cache
+C:\Users\ivanczif21\source\repos\szamolas\szamolas\obj\Debug\net6.0\szamolas.dll
+C:\Users\ivanczif21\source\repos\szamolas\szamolas\obj\Debug\net6.0\refint\szamolas.dll
+C:\Users\ivanczif21\source\repos\szamolas\szamolas\obj\Debug\net6.0\szamolas.pdb
+C:\Users\ivanczif21\source\repos\szamolas\szamolas\obj\Debug\net6.0\szamolas.genruntimeconfig.cache
+C:\Users\ivanczif21\source\repos\szamolas\szamolas\obj\Debug\net6.0\ref\szamolas.dll
