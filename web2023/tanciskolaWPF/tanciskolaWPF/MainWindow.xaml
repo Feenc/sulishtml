@@ -1,0 +1,22 @@
+﻿<Window x:Name="latintancok" x:Class="tanciskolaWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:tanciskolaWPF"
+        mc:Ignorable="d"
+        Title="Latin Tancok" Height="450" Width="800">
+    <Grid>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="67*"/>
+            <ColumnDefinition Width="0*"/>
+            <ColumnDefinition Width="333*"/>
+        </Grid.ColumnDefinitions>
+        <TextBlock x:Name="textBlock" TextWrapping="Wrap" Text="2.feladat" Margin="10,10,39,392"/>
+        <Button Content="3.feladat" Margin="0,34,60,362" Click="Button_Click" Background="#FFFFEA00"/>
+        <Button Content="2.feladat" Margin="0,0,60,400" Background="#FF1300FF"/>
+        <TextBox TextWrapping="Wrap" Text="Tancok" Margin="0,72,60,320" TextChanged="TextBox_TextChanged" Background="#FF13FF00"/>
+        <ListBox d:ItemsSource="{d:SampleData ItemCount=5}" Margin="74,72,631,236" Grid.ColumnSpan="3" Background="Red"/>
+
+    </Grid>
+</Window>

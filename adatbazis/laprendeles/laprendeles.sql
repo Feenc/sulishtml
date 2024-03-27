@@ -1,0 +1,1 @@
+SELECT lap.cim, lap.havi FROM lap WHERE lap.havi!=0 ORDER BY lap.cim;

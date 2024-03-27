@@ -1,0 +1,1 @@
+CREATE DATABASE nb1 DEFAULT CHARSET utf8 COLLATE utf8_hungarian_ci;
